@@ -36,5 +36,14 @@ Proyek ini dibuat oleh **Tim 1** dan dirancang untuk menyajikan konsep **game si
 
 ---
 
+## 📚 Disclaimer
+
+Proyek ini dibuat **semata-mata untuk tujuan pembelajaran** dan pengembangan keterampilan dalam mata kuliah *Proyek Pemrograman Web*.  
+Semua aset yang digunakan (seperti gambar, video, atau konsep desain) adalah untuk kepentingan edukatif dan **tidak dimaksudkan untuk penggunaan komersial**.
+
+Kami menghormati hak cipta dari pemilik asli dan tidak bermaksud melanggar hak kekayaan intelektual dalam bentuk apapun.
+
+---
+
 > Terima kasih telah mengunjungi proyek kami 🙌  
-> Website ini dibuat untuk tujuan pembelajaran dan pengembangan keterampilan web modern.
+> Website ini adalah representasi kreativitas dan kolaborasi dalam dunia web development modern.
