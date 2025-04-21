@@ -20,3 +20,17 @@ Proyek ini dibuat oleh **Tim 1** dan dirancang untuk menyajikan konsep game simu
 - 👤 G1A023037 - [Achmad Azza Alhaqi]
 
 ---
+
+## 🛠️ Teknologi yang Digunakan
+
+- ⚛️ **React JS** – Library JavaScript untuk membangun UI
+- 🎨 **CSS3** – Custom styling dengan efek sinematik
+- 🎥 **Cloudinary** – Untuk penyimpanan dan streaming video background
+
+---
+
+## 🌐 Link Akses
+
+https://sidiqkun.github.io/life-2.0/
+
+---
